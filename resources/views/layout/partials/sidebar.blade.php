@@ -19,7 +19,7 @@
     <nav class="flex-1 overflow-y-auto overflow-x-hidden py-6 space-y-1 px-4">
 
         {{-- Kategori: HOME --}}
-        <p class="px-3 mb-2 text-[11px] font-bold uppercase tracking-wider text-slate-400 dark:text-slate-500 mt-2">ubah</p>
+        <p class="px-3 mb-2 text-[11px] font-bold uppercase tracking-wider text-slate-400 dark:text-slate-500 mt-2">Home</p>
 
         {{-- Dashboard (Standalone Menu) --}}
         <a href="{{ route('dashboard') }}"
